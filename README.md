@@ -24,5 +24,6 @@ To develop a professional and user-friendly website for Royal Spice, a restauran
 1. Clone the repository:
 
    ```bash
+   https://github.com/malinduL/ROYAL-SPICE-WEBSITE.git
 
 
