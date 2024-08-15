@@ -9,3 +9,20 @@ To develop a professional and user-friendly website for Royal Spice, a restauran
 - CSS       : For styling the website, ensuring a visually appealing and responsive design.
 - PHP       : For server-side processing, including form submissions and dynamic content handling.
 - JavaScript: For adding interactive features and enhancing user experience.
+
+## Royal Spice Website Features
+
+- **User Authentication:** Secure login system for different user roles (e.g., admin, staff).
+- **Online Ordering:** Integrate an e-commerce system for customers to place orders online.
+- **Reservation Management:** Advanced booking system with real-time availability and confirmation.
+- **Customer Accounts:** Enable customers to create accounts, view past orders, and manage their profiles.
+- **Event Management:** Feature for managing and promoting special events or offers.
+- **Reviews and Ratings:** Allow customers to leave reviews and rate dishes.
+
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+
+
